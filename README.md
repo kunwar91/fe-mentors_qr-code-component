@@ -21,10 +21,10 @@ Created the solution using plain HTML/CSS, kept mobile first approach
 ### Screenshot
 
 #### Desktop
-![Desktop Screenshot](../images/screenshot-desktop.png)
+![Desktop Screenshot](./images/screenshot-desktop.png)
 
 #### Mobile
-![Mobile screenshot](../images/screenshot-mobile.png)
+![Mobile screenshot](./images/screenshot-mobile.png)
 
 
 ### Links
