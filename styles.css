@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 :root {
+    /* colors */
     --light-grey: #D5E1EF;
     --white: #fff;
     --grey: #7D889E;
     --dark-navy: #1F314F;
+
+    /* fonts */
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
-    /* font-weight: <weight>; */
     font-style: normal;
 }
 
@@ -35,7 +37,6 @@ body {
 }
 
 .card img {
-    /* width: 288px; */
     width: 100%;
     border-radius: 10px;
 }
