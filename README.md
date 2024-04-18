@@ -29,8 +29,8 @@ Created the solution using plain HTML/CSS, kept mobile first approach
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kunwar91/fe-mentors_qr-code-component)
-- Live Site URL: [Add live site URL here](https://kunwar91.github.io/fe-mentors_qr-code-component/)
+- Solution URL: [github](https://github.com/kunwar91/fe-mentors_qr-code-component)
+- Live Site URL: [QR code website](https://kunwar91.github.io/fe-mentors_qr-code-component/)
 
 ## My process
 
